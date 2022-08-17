@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
 <>
-<div>배포닷!</div>
+<div>배포다!</div>
 </>
   );
 }
